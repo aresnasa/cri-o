@@ -7,8 +7,8 @@ require (
 	github.com/Microsoft/go-winio v0.5.1
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/container-orchestrated-devices/container-device-interface v0.0.0-20220224133719-e5457123010b
-	github.com/containerd/cgroups v1.0.2
-	github.com/containerd/containerd v1.5.8
+	github.com/containerd/cgroups v1.0.3
+	github.com/containerd/containerd v1.5.13
 	github.com/containerd/cri-containerd v1.19.0
 	github.com/containerd/ttrpc v1.1.0
 	github.com/containerd/typeurl v1.0.2
@@ -43,7 +43,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.17.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.2-0.20210819154149-5ad6f50d6283
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/opencontainers/runc v1.0.3
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210709190330-896175883324
 	github.com/opencontainers/runtime-tools v0.9.1-0.20210326182921-59cdde06764b
@@ -63,7 +63,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.2.0
 	golang.org/x/net v0.0.0-20211005001312-d4b1ae081e3b
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211116061358-0a5406a5449c
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 	google.golang.org/grpc v1.43.0
 	k8s.io/api v0.22.2
 	k8s.io/apimachinery v0.22.2
@@ -81,7 +81,7 @@ require (
 
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
-	github.com/Microsoft/hcsshim v0.8.23 // indirect
+	github.com/Microsoft/hcsshim v0.8.24 // indirect
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d // indirect
